@@ -2,7 +2,8 @@
 Name: Connor Aulson
 CS602: Section SN2
 Data: NYC Collisions
-URL:
+Streamlit URL: https://share.streamlit.io/connorbarton/cs602/main/P5_aulson_conn.py
+Github URL: https://github.com/connorbarton/cs602/blob/main/P5_aulson_conn.py
 Description: This program utilizes NYC vehicular crash data and answers the following three queries:
 1) How many vehicular crashes have there been relative to my location? [Geo Map]
 2) How often are people injured or killed based on different collision reasons? [Pie Charts]
