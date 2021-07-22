@@ -1,7 +1,7 @@
 pandas
 streamlit
 requests
-urllib
+urllib3
 geopy
 pydeck
 matplotlib
