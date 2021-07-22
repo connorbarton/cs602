@@ -5,6 +5,5 @@ urllib3
 geopy
 pydeck
 matplotlib
-collections
 seaborn
 random
