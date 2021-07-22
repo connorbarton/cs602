@@ -1,10 +1,10 @@
 pandas
 streamlit
 requests
-urllib.parse
-geopy.distance
+urllib
+geopy
 pydeck
-matplotlib.pyplot
+matplotlib
 collections
 seaborn
 random
