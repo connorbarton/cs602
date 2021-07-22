@@ -1,10 +1,10 @@
-py -m pip install pandas
-py -m pip install streamlit
-py -m pip install requests
-py -m pip install urllib.parse
-py -m pip install geopy.distance
-py -m pip install pydeck as pdk
-py -m pip install matplotlib.pyplot as plt
-py -m pip install collections
-py -m pip install seaborn as sns
-py -m pip install random
+pandas
+streamlit
+requests
+urllib.parse
+geopy.distance
+pydeck
+matplotlib.pyplot
+collections
+seaborn
+random
