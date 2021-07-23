@@ -295,7 +295,7 @@ def main():
         city, state, country = "New York City", "New York", "United States"
 
         # create a slider for the user to select the proximity, set default as 5 miles
-        proximity = st.sidebar.slider("Proximity (miles)", 0.1, 5.0, step=0.1, value=2.5)
+        proximity = st.sidebar.slider("Proximity (miles)", 0.1, 5.0, step=0.1)
 
         # determine the map style
         map_style_list = ['No Preference', 'Light Style', 'Dark Style', 'Satellite Style']
